@@ -9,6 +9,21 @@ A modern, serverless, and highly customizable AI Chatbot built with pure HTML, C
 - **Markdown & Syntax Highlighting:** Beautifully formats AI responses and highlights code blocks using `marked.js` and `highlight.js` (Tokyo Night Dark Theme).
 - **Serverless & Secure:** No backend required. API keys are stored locally and sent directly to the providers.
 - **Responsive Design:** Looks great on both desktop and mobile devices.
+### 📸 Screenshots
+
+<p align="center">
+  <br>
+  <b>Chat Interface &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Setting Panel</b><br>
+  <img src="preview1.png" width="45%" alt="Chat Interface" />
+  <img src="preview2.png" width="45%" alt="Setting Panel" />
+</p>
+
+<p align="center">
+  <b>Chats Bar &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Live Preview</b><br>
+  <img src="preview3.png" width="45%" alt="Chats Bar" />
+  <img src="preview4.png" width="45%" alt="Live Preview" />
+</p>
+
 
 ## 🚀 How to Use
 1. Clone the repository or simply download the ZIP.
